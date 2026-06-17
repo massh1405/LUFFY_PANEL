@@ -173,7 +173,7 @@ MIT — use freely, modify as needed.
 ---
 ---
 ---
-**my about** :
+
 [My telegram channel](https://t.me/Luffy_sh_op).
 
 # 🏴‍☠️ لوفی پنل
@@ -347,3 +347,6 @@ vless://<uuid>@<domain>:443?encryption=none&security=tls&type=ws&host=<domain>&p
 ## 📄 لایسنس
 
 MIT — آزادانه استفاده و ویرایش کنید.
+
+
+[چنل تگراممون](https://t.me/Luffy_sh_op).
