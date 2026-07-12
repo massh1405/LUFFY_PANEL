@@ -1,6 +1,6 @@
 
-** Clients' Photos Folder **
+**Clients' Photos Folder**
 
 
-** پوشه عکس‌های کلاینت‌ها **
+**پوشه عکس‌های کلاینت‌ها**
 
